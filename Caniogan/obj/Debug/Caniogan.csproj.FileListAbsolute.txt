@@ -1,0 +1,551 @@
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\ApplicationInsights.config
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\csc.exe
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\System.Collections.Immutable.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\vbc.exe
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\VBCSCompiler.exe
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\roslyn\VBCSCompiler.exe.config
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Caniogan.dll.config
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Caniogan.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Caniogan.pdb
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Antlr3.Runtime.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\EntityFramework.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\EntityFramework.SqlServer.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.Web.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.WindowsServer.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.ApplicationInsights.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Google.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Web.Infrastructure.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Newtonsoft.Json.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Owin.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\System.Web.Optimization.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\System.Web.Providers.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\WebGrease.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.Web.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AI.WindowsServer.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.ApplicationInsights.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\System.Web.Optimization.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Antlr3.Runtime.pdb
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Newtonsoft.Json.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\EntityFramework.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\EntityFramework.SqlServer.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\System.Web.Providers.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Google.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\obj\Debug\Caniogan.csprojResolveAssemblyReference.cache
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\obj\Debug\Caniogan.dll
+c:\users\markbennilnaga\documents\visual studio 2015\Projects\Caniogan\Caniogan\obj\Debug\Caniogan.pdb
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\ApplicationInsights.config
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\csc.exe
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\vbc.exe
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\VBCSCompiler.exe
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Caniogan.dll.config
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Caniogan.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Caniogan.pdb
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Antlr3.Runtime.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\EntityFramework.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\EntityFramework.SqlServer.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.Web.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Newtonsoft.Json.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Owin.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\System.Web.Optimization.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\System.Web.Providers.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\WebGrease.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.Web.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\System.Web.Optimization.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Antlr3.Runtime.pdb
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Newtonsoft.Json.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\EntityFramework.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\EntityFramework.SqlServer.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\System.Web.Providers.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\obj\Debug\Caniogan.csprojResolveAssemblyReference.cache
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\obj\Debug\Caniogan.dll
+C:\Users\gio\Downloads\Caniogan\Caniogan\Caniogan\obj\Debug\Caniogan.pdb
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\ApplicationInsights.config
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\csc.exe
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\vbc.exe
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\VBCSCompiler.exe
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Caniogan.dll.config
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Caniogan.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Caniogan.pdb
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Antlr3.Runtime.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\EntityFramework.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\EntityFramework.SqlServer.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.Web.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Newtonsoft.Json.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Owin.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\System.Web.Optimization.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\System.Web.Providers.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\WebGrease.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.Web.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\System.Web.Optimization.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Antlr3.Runtime.pdb
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Newtonsoft.Json.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\EntityFramework.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\EntityFramework.SqlServer.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\System.Web.Providers.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\obj\Debug\Caniogan.csprojResolveAssemblyReference.cache
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\obj\Debug\Caniogan.dll
+C:\Users\gio\Desktop\Caniogan\Caniogan\Caniogan\obj\Debug\Caniogan.pdb
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\ApplicationInsights.config
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\csc.exe
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\vbc.exe
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Caniogan.dll.config
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Caniogan.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Caniogan.pdb
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Antlr3.Runtime.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\EntityFramework.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\EntityFramework.SqlServer.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.Web.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Newtonsoft.Json.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Owin.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\System.Web.Optimization.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\System.Web.Providers.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\WebGrease.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.Web.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\System.Web.Optimization.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Antlr3.Runtime.pdb
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Newtonsoft.Json.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\EntityFramework.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\EntityFramework.SqlServer.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\System.Web.Providers.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\obj\Debug\Caniogan.dll
+C:\Users\marcj\Documents\Visual Studio 2015\Projects\Caniogan\Caniogan\Caniogan\obj\Debug\Caniogan.pdb
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\ApplicationInsights.config
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\csc.exe
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\System.Collections.Immutable.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\vbc.exe
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\VBCSCompiler.exe
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\roslyn\VBCSCompiler.exe.config
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Caniogan.dll.config
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Caniogan.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Caniogan.pdb
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Antlr3.Runtime.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\AspNet.ScriptManager.jQuery.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\EntityFramework.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\EntityFramework.SqlServer.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.DependencyCollector.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.Web.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.WindowsServer.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.ApplicationInsights.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Google.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Web.Infrastructure.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Newtonsoft.Json.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Owin.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\System.Web.Optimization.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\System.Web.Providers.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\WebGrease.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.DependencyCollector.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.Web.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AI.WindowsServer.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.ApplicationInsights.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\System.Web.Optimization.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Antlr3.Runtime.pdb
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Newtonsoft.Json.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\EntityFramework.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\EntityFramework.SqlServer.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\System.Web.Providers.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Google.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\obj\Debug\Caniogan.dll
+D:\Studies\Fourth Year\WEB PROG\CanioganPasig\Caniogan\obj\Debug\Caniogan.pdb
+F:\CanioganPasig\Caniogan\bin\ApplicationInsights.config
+F:\CanioganPasig\Caniogan\bin\roslyn\csc.exe
+F:\CanioganPasig\Caniogan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CanioganPasig\Caniogan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CanioganPasig\Caniogan\bin\roslyn\System.Collections.Immutable.dll
+F:\CanioganPasig\Caniogan\bin\roslyn\System.Reflection.Metadata.dll
+F:\CanioganPasig\Caniogan\bin\roslyn\vbc.exe
+F:\CanioganPasig\Caniogan\bin\roslyn\VBCSCompiler.exe
+F:\CanioganPasig\Caniogan\bin\roslyn\VBCSCompiler.exe.config
+F:\CanioganPasig\Caniogan\bin\Caniogan.dll.config
+F:\CanioganPasig\Caniogan\bin\Caniogan.dll
+F:\CanioganPasig\Caniogan\bin\Caniogan.pdb
+F:\CanioganPasig\Caniogan\bin\Antlr3.Runtime.dll
+F:\CanioganPasig\Caniogan\bin\AspNet.ScriptManager.bootstrap.dll
+F:\CanioganPasig\Caniogan\bin\AspNet.ScriptManager.jQuery.dll
+F:\CanioganPasig\Caniogan\bin\EntityFramework.dll
+F:\CanioganPasig\Caniogan\bin\EntityFramework.SqlServer.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.DependencyCollector.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.Web.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.WindowsServer.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.ApplicationInsights.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Core.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Cookies.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Facebook.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Google.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.OAuth.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Twitter.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.ScriptManager.WebForms.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.Web.Infrastructure.dll
+F:\CanioganPasig\Caniogan\bin\Newtonsoft.Json.dll
+F:\CanioganPasig\Caniogan\bin\Owin.dll
+F:\CanioganPasig\Caniogan\bin\System.Web.Optimization.dll
+F:\CanioganPasig\Caniogan\bin\System.Web.Providers.dll
+F:\CanioganPasig\Caniogan\bin\WebGrease.dll
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.DependencyCollector.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.Web.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.AI.WindowsServer.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.ApplicationInsights.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CanioganPasig\Caniogan\bin\System.Web.Optimization.xml
+F:\CanioganPasig\Caniogan\bin\Antlr3.Runtime.pdb
+F:\CanioganPasig\Caniogan\bin\Newtonsoft.Json.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\CanioganPasig\Caniogan\bin\EntityFramework.xml
+F:\CanioganPasig\Caniogan\bin\EntityFramework.SqlServer.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Core.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\CanioganPasig\Caniogan\bin\System.Web.Providers.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Facebook.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Cookies.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Google.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Twitter.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.OAuth.xml
+F:\CanioganPasig\Caniogan\obj\Debug\Caniogan.csprojResolveAssemblyReference.cache
+F:\CanioganPasig\Caniogan\obj\Debug\Caniogan.dll
+F:\CanioganPasig\Caniogan\obj\Debug\Caniogan.pdb
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\ApplicationInsights.config
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\csc.exe
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\vbc.exe
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Caniogan.dll.config
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Caniogan.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Caniogan.pdb
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Antlr3.Runtime.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\EntityFramework.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\EntityFramework.SqlServer.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.Web.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Newtonsoft.Json.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Owin.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\System.Web.Optimization.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\System.Web.Providers.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\WebGrease.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.Web.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\System.Web.Optimization.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Antlr3.Runtime.pdb
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Newtonsoft.Json.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\EntityFramework.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\EntityFramework.SqlServer.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\System.Web.Providers.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\obj\Debug\Caniogan.csprojResolveAssemblyReference.cache
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\obj\Debug\Caniogan.dll
+C:\Users\marcj\Desktop\asd\CanioganPasig\Caniogan\obj\Debug\Caniogan.pdb
