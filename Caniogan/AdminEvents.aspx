@@ -1,35 +1,42 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site2.Master" AutoEventWireup="true" CodeBehind="AdminEvents.aspx.cs" Inherits="Caniogan.AdminEvents" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <script>
+ <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/jquery.dataTables.css" rel="stylesheet" />
+    <script src="Scripts/jquery.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script  src="Scripts/jquery.datatables.min.js"></script>
+
+    <!--script for button click-->
+      <script>
 
          function EditText() {
         document.getElementById("BtnSave").disabled= false;
-        document.getElementById("ETitle").disabled = false;
-        document.getElementById("EPlace").disabled = false;
-        document.getElementById("EvDesc").disabled = false;
-        document.getElementById("EvDate").disabled = false;
-        document.getElementById("EndDate").disabled = false;
-        document.getElementById("StartDate").disabled = false;
+        document.getElementById("EditWhat").disabled = false;
+        document.getElementById("EditWhere").disabled = false;
+        document.getElementById("EditWho").disabled = false;
+        document.getElementById("EditDesc").disabled = false;
+        document.getElementById("EditWhen").disabled = false;
+        document.getElementById("EditEDate").disabled = false;
 
         
      };
     function SaveText() {
-        document.getElementById("ETitle").disabled = true;
-        document.getElementById("EPlace").disabled = true;
-        document.getElementById("EvDesc").disabled = true;
-        document.getElementById("EvDate").disabled = true;
-        document.getElementById("StartDate").disabled = true;
-        document.getElementById("EndDate").disabled = true;
+        document.getElementById("EditWhat").disabled = true;
+        document.getElementById("EditWhere").disabled = true;
+        document.getElementById("EditWho").disabled = true;
+        document.getElementById("EditWhen").disabled = true;
+        document.getElementById("EditDesc").disabled = true;
+        document.getElementById("EditEDate").disabled = true;
      };
 
 
 
     </script>
+
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
-
-    <style>
+  <style>
         body {
             background-image: url(img/images/1.jpg);
             min-height: 500px;
@@ -38,16 +45,20 @@
             background-repeat: no-repeat;
             background-size: cover;
         }
+
+        td
+        {
+         font-family:Verdana, Geneva, sans-serif;
+        }
     </style>
 
     <div id="wrapper">
 
         <div id="page-wrapper" style="background: transparent">
+           
 
-         <div class="container-fluid">
-
-                <!-- Page Heading -->
-                <div class="row">
+            <div class="container-fluid">
+                  <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">
                            Events
@@ -62,158 +73,184 @@
                         </ol>
                     </div>
                 </div>
-                <!-- /.row -->
 
-                <!-- Main jumbotron for a primary marketing message or call to action -->
-                <div class="row">
-                    <div class="col-lg-12">
+                <h2 style="text-align:right"><button type="button" class="btn btn-primary btn-s" data-toggle="modal" data-target="#AddEvent">Add Events</button></h2>
 
-                        <form role="form">
-                            
-
-                            <div class="form-group">
-                            
-                               <h2 style="text-align:right"><button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#AddEvent">Add Event</button><h2>
-
-                            </div>
-                            <!--MOdal Add Event-->
-                            <div class="modal fade" id="AddEvent" role="dialog">
-                                <div class="modal-dialog modal-lg">
-                                  <div class="modal-content">
-                                    <div class="modal-header">
-                                      <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                      <h4 class="modal-title">Add Event</h4>
-                                    </div>
-                                    <div class="modal-body">
-                                        <form role="form">
-
-                                            
-
-                                            <div class="form-group">
-                                                <label> EVENT TITLE</label>
-                                                <input class="form-control" id="EWhat">
-                                            </div>
-                                            <div class="form-group">
-                                                <label>EVENT PLACE</label>
-                                                <input class="form-control" id="EWhere">
-                                            </div>
-                                           
-                                            <div class="form-group">
-                                                <label>EVENT DESCRIPTION:</label>
-                                                <input class="form-control" id="EDesc">
-                                            </div>
-                                            
-                                             <div class="form-group">
-                                                <label>EVENT DATE and TIME:</label>
-                                                <input class="form-control" type="datetime-local" id="EDateTime">
-                                            </div>
-                                            <div class="form-group">
-                                                <label>START DATE</label>
-                                                <input class="form-control" type="datetime-local" id="SDate">
-                                               
-                                            </div>
-                                            <div class="form-group">
-                                                <label>END DATE</label>
-                                                <input class="form-control" type="datetime-local" id="EDate">
-                                            </div>
-
-                                          
-  
-                                        </form>
-
-
-                                    </div>
-                                    <div class="modal-footer">
-                                      <button type="submit" class="btn btn-primary btn-lg" data-dismiss="modal">Add</button>
-                                      <button type="submit" class="btn btn-primary btn-lg" data-dismiss="modal">Cancel</button>
-                                    </div>
-                                  </div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-
-              
-                <div class="row" >
-                    <div class="col-lg-12">
-                        
-                    
-                            <p> 
-
-                                <h1><strong>WHAT: Gift Giving </strong></h1>
-                                <h2><strong>WHERE: </strong> Barangay Caniogan Court </h2>
-                                <h2><strong>DESCRIPTION:</strong> Mendoza Foundation is giving gifts to the children of Caniogan. </h2>
-                                <h2><strong>WHEN:</strong> December 9, 2016</h2>
-                            </p>
-                    
-                        <h2 style="text-align:right"><button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#ViewProfile">Edit Event</button>
-                        </h2>
-                    </div>
-                    
-                </div>
-                <br />
                
 
+                <div class="table-responsive">
+                    <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
+                        <thead>
+                            <tr>
+                                <th>WHAT</th>
+                                <th>WHERE</th>
+                                <th>WHEN</th>
+                                <th>WHO</th>
+                                <th>DESCRIPTION</th>
+                                <th>ACTION</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Gift Giving</td>
+                                <td>Pasig</td>
+                                <td>September 20, 2016</td>
+                                <td>Orphans</td>
+                                <td>For children of Pasig</td>
+                                <td><button type="button" class="btn btn-default btn-s" data-toggle="modal" data-target="#Edit">Edit</button>
+                                    <button type="button" class="btn btn-default btn-s" data-toggle="modal" data-target="#Delete">Delete</button>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+
+                
                 
 
-                <!--Modal ViewProfile-->
-                <div class="modal fade" id="ViewProfile" role="dialog">
-                                <div class="modal-dialog modal-lg">
-                                  <div class="modal-content">
-                                    <div class="modal-header">
-                                      <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                      <h1 class="modal-title" style ="text-align:center">Event</h1>
-                                    </div>
-                                    <div class="modal-body">
-                                           
-                                            
-                                           
-                                             <div class="form-group">
-                                                <label> Event Title(WHAT)</label>
-                                                <textarea class="form-control" id="ETitle" disabled rows="1"> Gift Giving</textarea>
-                                            </div>
-                                             <div class="form-group">
-                                                <label> Event Place(WHERE)</label>
-                                                <textarea class="form-control" id="EPlace" disabled rows="1">Caniogan Pasig</textarea>
-                                            </div>
-                                             <div class="form-group">
-                                                <label> Event Decription</label>
-                                                <textarea class="form-control" id="EvDesc" disabled rows="3">Mendoza Foundation is giving gift to children of Caniogan</textarea>
-                                            </div>
-                                            <div class="form-group">
-                                                <label> Date(WHEN)</label>
-                                                <input type="date" class="form-control" id="EvDate" disabled value="12/09/16 10:00 am"/>
-                                            </div>
-                                            <div class="form-group">
-                                                <label> Start </label>
-                                                <input type="datetime-local" class="form-control" id="StartDate"disabled value="09/15/16"/>
-                                            </div>
-                                            <div class="form-group">
-                                                <label> End </label>
-                                                <input type="datetime-local" class="form-control" id="EndDate"disabled value="12/09/16"/>
-                                            </div>
-                                             
 
-                                         
+                <script type="text/javascript">
+                $(document).ready(function() {
+                    $('#example').DataTable();
+                } );
+                </script>
+              
+                
+            </div>
+        </div>
+    </div>
+
+      <!--MOdal Add Event-->
+    <div class="modal fade" id="AddEvent" role="dialog">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Add Event</h4>
+                </div>
+                <div class="modal-body">
+                    <form role="form">
+
+                        <div class="form-group">
+                            <label>WHAT:</label>
+                            <input class="form-control" id="EWhat">
+                        </div>
+                        <div class="form-group">
+                            <label>WHERE:</label>
+                            <input class="form-control" id="EWhere">
+                        </div>
+                        <div class="form-group">
+                            <label>WHO:</label>
+                            <input class="form-control" id="EWho">
+                        </div>
+
+                        <div class="form-group">
+                            <label>DESCRIPTION:</label>
+                            <input class="form-control" id="EDesc">
+                        </div>
+
+                        <div class="form-group">
+                            <label>WHEN:</label>
+                            <input class="form-control" type="datetime-local" id="EDateTime">
+                        </div>
+                        <div class="form-group">
+                            <label>START DATE</label>
+                            <input class="form-control" type="datetime-local" id="ESDate">
+                        </div>
+
+                        <div class="form-group">
+                            <label>END DATE</label>
+                            <input class="form-control" type="datetime-local" id="EEDate">
+                        </div>
 
 
-                                    </div>
+                    </form>
+                    <div class="modal-footer">
+                                      <button type="submit" class="btn btn-primary btn-md" data-dismiss="modal">Add</button>
+                                      <button type="submit" class="btn btn-primary btn-md" data-dismiss="modal">Cancel</button>
+                   </div>
+                </div>
+                </div>
+            </div>
+        </div>
 
-                                    <div class="modal-footer">
-                                      <button type="button" class="btn btn-primary btn-lg" onclick="EditText();"> Edit</button>
-                                      <button type="submit" id="BtnSave" disabled class="btn btn-primary btn-lg" onclick="SaveText();"> Save</button>
-                                    </div>
+    <!--Modal for Edit--->
+    <div class="modal fade" id="Edit" role="dialog">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h1 class="modal-title" style="text-align: center">Event</h1>
+                </div>
+                <div class="modal-body">
 
 
-                                  </div>
-                                </div>
 
+                    <div class="form-group">
+                        <label>WHAT:</label>
+                        <textarea class="form-control" id="EditWhat" disabled rows="1"></textarea>
                     </div>
+                    <div class="form-group">
+                        <label>WHERE:</label>
+                        <textarea class="form-control" id="EditWhere" disabled rows="1">Caniogan Pasig</textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>WHO:</label>
+                        <textarea class="form-control" id="EditWho" disabled rows="3"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>WHEN:</label>
+                        <input type="date" class="form-control" id="EditWhen" disabled />
+                    </div>
+                    <div class="form-group">
+                        <label>DESCRIPTION:</label>
+                        <textarea class="form-control" id="EditDesc" disabled rows="3"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>START: </label>
+                        <input type="datetime-local" class="form-control" id="EditSDate" disabled />
+                    </div>
+                    <div class="form-group">
+                        <label>END: </label>
+                        <input type="datetime-local" class="form-control" id="EditEDate" disabled />
+                    </div>
+
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary btn-md" onclick="EditText();">Edit</button>
+                    <button type="submit" id="BtnSave" disabled class="btn btn-primary btn-md" onclick="SaveText();">Save</button>
+                </div>
 
 
             </div>
+        </div>
 
+    </div>
+
+
+    <!---Modal for Delete-->
+    <div class="modal fade" id="Delete" role="dialog">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h1 class="modal-title" style="text-align: center">Event </h1>
+                </div>
+                <div class="modal-body">
+                    <label> Are you sure you want to delete?</label>
+                    
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary btn-md">Yes</button>
+                    <button type="submit" class="btn btn-primary btn-md">No</button>
+                </div>
+            </div>
         </div>
     </div>
+       
+
+
 </asp:Content>

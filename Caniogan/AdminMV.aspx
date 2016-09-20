@@ -26,7 +26,7 @@
                         </h1>
                         <ol class="breadcrumb">
                             <li>
-                                <i class="fa fa-dashboard"></i><a href="AdminHommee.aspx">Dashboard</a>
+                                <i class="fa fa-dashboard"></i><a href="AdminHome.aspx">Dashboard</a>
                             </li>
                             <li class="active">
                                 <i class="fa fa-table"></i>Mission & Vission
